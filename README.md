@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Tanvi%20Aggarwal&fontSize=42&fontColor=1a1a1a&animation=twinkling&fontAlignY=35&desc=B.Tech%20CSE%20(AI%20%26%20FT)%20Student%20%7C%20AI%20Engineer%20Aspirant&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7dd3fc&amp;height=220&amp;section=header&amp;text=Tanvi%20Aggarwal&amp;fontSize=42&amp;fontColor=1a1a1a&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=B.Tech%20CSE%20(AI%20%26%20FT)%20Student%20%7C%20AI%20Engineer%20Aspirant&amp;descAlignY=55&amp;descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+AI-powered+systems+from+scratch;YOLOv8+%7C+OpenCV+%7C+FastAPI+%7C+MediaPipe;Turning+ideas+into+real+architected+projects;Currently+deep-diving+into+AI+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1000&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+AI-powered+systems+from+scratch;YOLOv8+%7C+OpenCV+%7C+FastAPI+%7C+MediaPipe;Turning+ideas+into+real+architected+projects;Currently+deep-diving+into+AI+Engineering" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Tanvi166&label=Profile%20Views&color=7dd3fc&style=flat" />
-<img src="https://img.shields.io/github/followers/Tanvi166?label=Followers&style=flat&color=7dd3fc" />
+<img src="https://komarev.com/ghpvc/?username=Tanvi166&amp;label=Profile%20Views&amp;color=7dd3fc&amp;style=flat" />
+<img src="https://img.shields.io/github/followers/Tanvi166?label=Followers&amp;style=flat&amp;color=7dd3fc" />
 
 </div>
 
@@ -95,10 +95,10 @@ Real-time Product Price Comparison Platform using Selenium and FastAPI to compar
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tanvi166&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi166&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" width="39%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tanvi166&amp;show_icons=true&amp;theme=nord&amp;border_color=7dd3fc&amp;title_color=7dd3fc&amp;icon_color=7dd3fc" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi166&amp;layout=compact&amp;theme=nord&amp;border_color=7dd3fc&amp;title_color=7dd3fc" width="39%" />
 
-<img src="https://streak-stats.demolab.com?user=Tanvi166&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Tanvi166&amp;theme=nord&amp;border=7dd3fc&amp;ring=7dd3fc&amp;fire=7dd3fc" width="70%" />
 
 </div>
 
@@ -107,14 +107,14 @@ Real-time Product Price Comparison Platform using Selenium and FastAPI to compar
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tanvi166&theme=nord&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tanvi166&amp;theme=nord&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10" />
 </div>
 
 <br/>
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvi166&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvi166&amp;theme=nord&amp;hide_border=true&amp;color=7dd3fc&amp;line=7dd3fc&amp;point=ffffff" width="100%" />
 
 <br/>
 
@@ -129,4 +129,4 @@ Real-time Product Price Comparison Platform using Selenium and FastAPI to compar
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7dd3fc&amp;height=120&amp;section=footer&amp;animation=twinkling" />
