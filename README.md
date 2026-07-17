@@ -1,9 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hi, I'm Tanvi Aggarwal
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Tanvi%20Aggarwal&fontSize=42&fontColor=1a1a1a&animation=twinkling&desc=AI%20Engineer%20Aspirant%20|%20B.Tech%20CSE%20(AI%20&%20FT)&descAlignY=55"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=250&section=header&text=Tanvi%20Aggarwal&fontSize=52&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20Aspirant&descAlignY=64&descSize=22"/>
 </p>
 
 <h3 align="center">
